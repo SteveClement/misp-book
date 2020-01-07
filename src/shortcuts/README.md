@@ -1,0 +1,1 @@
+../../shortcuts/README.md

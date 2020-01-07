@@ -1,0 +1,16 @@
+[book]
+authors = ["MISP Contributors"]
+language = "en"
+multilingual = false
+src = "src"
+title = "User guide of MISP Malware Information Sharing Platform, a Threat Sharing Platform."
+description = "User guide of MISP Malware Information Sharing Platform, a Threat Sharing Platform."
+
+
+[output.html]
+default-theme="navy"
+curly-quotes = true
+mathjax-support = false
+no-section-label = false
+git-repository-url = "https://github.com/MISP/misp-book"
+git-repository-icon = "fa-github"

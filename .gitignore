@@ -11,3 +11,6 @@ _book
 
 # node foo
 node_modules
+
+# mdBook ignores
+book
